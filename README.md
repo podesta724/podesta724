@@ -5,7 +5,7 @@ I'm a cybersecurity grad (Xavier University '26, Computer Science) working towar
 
 Most of what I know comes from building things. I built a full SOAR pipeline in Proxmox — Wazuh, Suricata, OPNsense, TheHive, and Cortex — and wrote it up as a poster board presentation that was accepted at the CAE in Cybersecurity Symposium (April 2026). I've also competed in the DOE CyberForce Competition defending simulated critical infrastructure, and placed in the 94.9th percentile nationally in the National Cyber League.
 
-This profile is where I keep the work itself, not just claims about it.
+This profile is where I keep the work itself
 
 Repos worth your time
 
