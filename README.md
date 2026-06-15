@@ -9,7 +9,7 @@ This profile is where I keep the work itself
 
 Repos worth your time
 
-detection-rules — TBD
+detection-rules — In Progress
 
 dfir-writeups — TBD
 
